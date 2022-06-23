@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1652320852 source:e:\minesweeper-master\box.cpp
+	"Box.h"
+
+1526359074 e:\minesweeper-master\box.h
+	"SDL.h"
+
+1652320852 source:e:\minesweeper-master\game.cpp
+	"Game.h"
+	<iostream>
+	"SDL.h"
+	"SDL_ttf.h"
+	"Map.h"
+	"Texture.h"
+	"PlayAgain.h"
+
+1526359074 e:\minesweeper-master\game.h
+	"SDL.h"
+	"SDL_ttf.h"
+	"Map.h"
+	"Texture.h"
+
+1526359074 e:\minesweeper-master\map.h
+
+1526359074 e:\minesweeper-master\texture.h
+	<string>
+	"SDL.h"
+	"SDL_image.h"
+
+1526359074 e:\minesweeper-master\playagain.h
+	"SDL.h"
+	"Box.h"
+
+1652320852 source:e:\minesweeper-master\main.cpp
+	<iostream>
+	<Windows.h>
+	"Game.h"
+	"StartScreen.h"
+	"Map.h"
+	"PlayAgain.h"
+
+1526359074 e:\minesweeper-master\startscreen.h
+	"Game.h"
+	<string>
+	"SDL_image.h"
+	"Box.h"
+
+1652320852 source:e:\minesweeper-master\map.cpp
+	"Map.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1652320852 source:e:\minesweeper-master\playagain.cpp
+	"PlayAgain.h"
+	"SDL.h"
+	"Texture.h"
+	"Game.h"
+	"Box.h"
+
+1652320852 source:e:\minesweeper-master\texture.cpp
+	"Texture.h"
+	"Game.h"
+
+1652321007 source:e:\minesweeper-master\startscreen.cpp
+	"StartScreen.h"
+	<string>
+	<iostream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"Texture.h"
+	"Box.h"
+
+1653029446 source:e:\gamedomin\box.cpp
+	"Box.h"
+
+1653029446 e:\gamedomin\box.h
+	"SDL.h"
+
+1652320852 source:e:\gamedomin\game.cpp
+	"Game.h"
+	<iostream>
+	"SDL.h"
+	"SDL_ttf.h"
+	"Map.h"
+	"Texture.h"
+	"PlayAgain.h"
+
+1653321103 e:\gamedomin\game.h
+	"SDL.h"
+	"SDL_ttf.h"
+	"Map.h"
+	"Texture.h"
+
+1653355911 e:\gamedomin\map.h
+
+1526359074 e:\gamedomin\texture.h
+	<string>
+	"SDL.h"
+	"SDL_image.h"
+
+1653355911 e:\gamedomin\playagain.h
+	"SDL.h"
+	"Box.h"
+
+1653355911 source:e:\gamedomin\main.cpp
+	<iostream>
+	<Windows.h>
+	"Game.h"
+	"StartScreen.h"
+	"Map.h"
+	"PlayAgain.h"
+
+1653356354 e:\gamedomin\startscreen.h
+	"Game.h"
+	<string>
+	"SDL_image.h"
+	"Box.h"
+
+1653321103 source:e:\gamedomin\map.cpp
+	"Map.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1653030150 source:e:\gamedomin\playagain.cpp
+	"PlayAgain.h"
+	"SDL.h"
+	"Texture.h"
+	"Game.h"
+	"Box.h"
+
+1653355911 source:e:\gamedomin\startscreen.cpp
+	"StartScreen.h"
+	<string>
+	<iostream>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"Texture.h"
+	"Box.h"
+
+1653030150 source:e:\gamedomin\texture.cpp
+	"Texture.h"
+	"Game.h"
+
